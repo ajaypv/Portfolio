@@ -1,0 +1,21 @@
+{
+  "name": "ajaypf",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.0"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ajaypv/Portfolio.git",
+  "author": "ajaypv <75624178+ajaypv@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.9.1",
+    "firebase-tools": "^11.3.0"
+  }
+}
